@@ -18,5 +18,5 @@ int main()
 }
 
 
-// Time Complexity: O(n), where n is the length of the given number
+// Time Complexity: O(log(n)), where n is the length of the given number
 // Space Complexity: O(1)
