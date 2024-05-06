@@ -16,6 +16,5 @@ int countDigits(int n){
 
 // int result = floor(log10(n) + 1);   (Optimal approach to count number of digits)
 
-// Complexity Analysis:
 // Time Complexity: O(1) as simple arithmetic operations in constant time are computed on integers.
 // Space Complexity : O(1) as only a constant amount of additional memory for the count variable regardless of size of the input number.
