@@ -16,3 +16,7 @@ int main()
     cout << reverse << '\n';
   return 0;
 }
+
+
+// Time Complexity: O(n), where n is the length of the given number
+// Space Complexity: O(1)
