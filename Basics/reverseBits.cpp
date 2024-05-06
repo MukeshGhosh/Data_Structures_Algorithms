@@ -1,4 +1,5 @@
 // https://www.naukri.com/code360/problems/reverse-bits_2181102?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM
+// Medium
 
 long reverseBits(long n) {
     int pow = 31;
