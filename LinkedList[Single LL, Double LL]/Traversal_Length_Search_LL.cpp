@@ -7,14 +7,19 @@ public:
     Node* next;
     
     Node(){
-        data = 0;
+        this->data = 0;
         next = NULL;
     }
-    
+
     Node(int data){
         this->data = data;
         this->next = NULL;
     }
+
+    Node(int data, Node* next){
+        this->data = data;
+        this->next = next;
+    }    
 };
 
 Node* convertToLL(vector<int> &arr){
