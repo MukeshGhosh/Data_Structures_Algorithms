@@ -7,7 +7,6 @@ public:
                 cnt += 1;
             }
         }
-        cout << cnt;
         if(cnt == 0) return true;
         if(cnt == 1 && arr[0] >= arr[n-1]) return true;
         return false;
