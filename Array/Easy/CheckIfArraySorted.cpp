@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
+
 class Solution {
   public:
     bool arraySortedOrNot(vector<int>& arr) {
