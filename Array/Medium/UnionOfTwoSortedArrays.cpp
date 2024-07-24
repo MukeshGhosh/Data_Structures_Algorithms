@@ -40,5 +40,5 @@ class Solution{
 
 // Time Complexity: O(m+n) (size of two arrays)
 /* Space Complexity: O(m+n) [if space of union ArrayList is considered]
-                                 O(1) [if space of union ArrayList is not considered]
+                     O(1) [if space of union ArrayList is not considered]
 */
